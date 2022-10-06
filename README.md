@@ -22,6 +22,7 @@
 <a href="https://www.facebook.com/zuhairtarif" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" alt="zuhairtarif" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/zuhairtarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zuhairtarif" height="30" width="40" /></a>
 <a href="https://steamcommunity.com/id/zuhairtarif/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="zuhairtarif" height="30" width="40" /></a>
+<a href="https://tracker.gg/valorant/profile/riot/tarif%23shei/overview" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Valorant_logo_-_pink_color_version.svg" alt="zuhairtarif" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
