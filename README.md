@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **tarif4667@gmail.com**
 
-- 📄 Know about my experiences [https://zuhairahmed.me/](https://zuhairahmed.me/)
+- 📄 Know about my experiences [https://zuhair.is-a.dev/](https://zuhair.is-a.dev/)
 
 - ⚡ Fun fact **I think I am funny**
 - 🎮 **I play games sometimes**
