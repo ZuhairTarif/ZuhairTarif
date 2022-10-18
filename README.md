@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Zuhair</h1>
-<h3 align="center">A passionate developer from Bangladesh</h3>
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=A+Passionate+Developer;&center=true&size=30">
+  </a>
+</h3>
+
+
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/D2H0hPltOdYAAAAC/golden-boy-fake-keyboard-programing-coding-paper-book.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zuhairtarif&label=Profile%20views&color=0e75b6&style=flat" alt="zuhairtarif" /> </p>
