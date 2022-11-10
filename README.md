@@ -41,10 +41,11 @@
 <br>
 
 
+![ZuhairTarif's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZuhairTarif&show_icons=true&theme=dracula)
 
-[![Top Languages](https://github-readme-stats.api.williamharrison.dev/api/top-langs/?username=ZuhairTarif&theme=algolia&layout=compact&border_radius=8)](https://github.com/ZuhairTarif)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZuhairTarif&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://wh-github-readme-streak-stats.herokuapp.com/?user=ZuhairTarif&theme=dark)](https://github.com/ZuhairTarif)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zuhairtarif&theme=dracula" alt="zuhairtarif" /></p>
 
 </details>
 
