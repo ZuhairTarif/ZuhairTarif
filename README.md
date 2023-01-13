@@ -40,11 +40,6 @@
 
 <br>
 
-
-![ZuhairTarif's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZuhairTarif&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZuhairTarif&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zuhairtarif&theme=dracula" alt="zuhairtarif" /></p>
 
 </details>
