@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Zuhair</h1>
+<h1 align="center">Yo! Zuhair here!!</h1>
 <h3 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5733&width=435&lines=A+Passionate+Developer&center=true&size=30" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=100&color=50BA6B&center=true&vCenter=true&width=439&lines=A+Developer;Gamer;Engineer;A+Friend" alt="Typing SVG" /></a>
 </h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/D2H0hPltOdYAAAAC/golden-boy-fake-keyboard-programing-coding-paper-book.gif">
 
-<img align="left" width="150" alt="zuhairtarif" src="https://count.getloli.com/get/@:zuhairtarif?theme=rule34"> 
-<br>
-<p align="left"> <a href="https://twitter.com/zuhairtarif" target="blank"><img src="https://img.shields.io/twitter/follow/zuhairtarif?logo=twitter&style=for-the-badge" alt="zuhairtarif" /></a> </p>
+<img align="left" width="150" alt="zuhairtarif" src="https://count.getloli.com/get/@:zuhairtarif?theme=rule34"> <br>
+
+<br><p align="left"> <a href="https://twitter.com/zuhairtarif" target="blank"><img src="https://img.shields.io/twitter/follow/zuhairtarif?logo=twitter&style=for-the-badge" alt="zuhairtarif" /></a> </p>
 
 - 👯 I’m looking to collaborate on **.net Projects**
 
