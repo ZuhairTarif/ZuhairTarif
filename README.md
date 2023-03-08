@@ -28,6 +28,8 @@
 <a href="https://steamcommunity.com/id/zuhairtarif/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="zuhairtarif" height="30" width="40" /></a>
 <a href="https://tracker.gg/valorant/profile/riot/Uchiha%23tarif/overview" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Valorant_logo_-_pink_color_version.svg" alt="zuhairtarif" height="30" width="40" /></a>
 <a href="https://g.dev/zuhair" target="blank"><img align="center" src="https://seeklogo.com/images/G/google-developers-logo-F8BF3155AC-seeklogo.com.png" alt="zuhairtarif" height="30" width="40" /></a>
+<a href="https://linktr.ee/zuhairtarif" target="blank"><img align="center" src="https://seeklogo.com/images/L/linktree-logo-6FC3ADB679-seeklogo.com.png" alt="zuhairtarif" height="30" width="25" /></a>
+  
 
 </p>
 
