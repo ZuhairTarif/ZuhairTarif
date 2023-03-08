@@ -6,8 +6,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/D2H0hPltOdYAAAAC/golden-boy-fake-keyboard-programing-coding-paper-book.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zuhairtarif&label=Profile%20views&color=0e75b6&style=flat" alt="zuhairtarif" /> </p>
-
+<img align="left" width="150" alt="zuhairtarif" src="https://count.getloli.com/get/@:zuhairtarif?theme=rule34"> 
+<br>
 <p align="left"> <a href="https://twitter.com/zuhairtarif" target="blank"><img src="https://img.shields.io/twitter/follow/zuhairtarif?logo=twitter&style=for-the-badge" alt="zuhairtarif" /></a> </p>
 
 - 👯 I’m looking to collaborate on **.net Projects**
