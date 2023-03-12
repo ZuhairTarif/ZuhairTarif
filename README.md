@@ -38,8 +38,14 @@
 
 
 
+<details>
+<summary>GitHub Stats</summary>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=zuhairtarif&theme=dracula" alt="zuhairtarif" /></p>
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zuhairtarif&theme=dracula" alt="zuhairtarif" /></p>
+
+</details>
 
 
 
