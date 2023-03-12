@@ -47,10 +47,9 @@
 </details>
 
 
-### Contribution Graph
-[![Snake Contribution Graph](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison/blob/output/github-contribution-grid-snake.svg)](https://github.com/ZuhairTarif)
+<img src = "https://media.licdn.com/dms/image/D5616AQGdSWd9P3ToJQ/profile-displaybackgroundimage-shrink_350_1400/0/1666033812358?e=1684368000&v=beta&t=cxGWHr75D9QLNOEzKBJZLdbc7hTiB2G5XIatHGgs0D4">
 
 
 
-<h3 align="right">Support:</h3>
+
 <p><a href="https://www.buymeacoffee.com/zuhairtarif"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zuhairtarif" /></a></p><br><br>
