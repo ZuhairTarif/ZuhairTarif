@@ -41,8 +41,8 @@
 
 
 <p align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ZuhairTarif&show_icons=true&theme=gotham" alt="ZuhairTarif" width="300" />
-  <img  src="https://github-readme-stats.vercel.app/api?username=ZuhairTarif&show_icons=true&theme=gotham" alt="ZuhairTarif" width="300" />
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ZuhairTarif&show_icons=true&theme=gotham" alt="ZuhairTarif" width="370" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=ZuhairTarif&show_icons=true&theme=gotham" alt="ZuhairTarif" width="370" />
  </p>
 </details>
 
