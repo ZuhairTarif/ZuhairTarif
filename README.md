@@ -34,12 +34,16 @@
 
 
 <details>
-<summary>GitHub Stats</summary>
+<summary><h2>GitHub Stats</h2></summary>
 
-<br>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zuhairtarif&theme=dracula" alt="zuhairtarif" /></p>
 
+
+<p align="center">
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ZuhairTarif&show_icons=true&theme=gotham" alt="ZuhairTarif" width="300" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=ZuhairTarif&show_icons=true&theme=gotham" alt="ZuhairTarif" width="300" />
+ </p>
 </details>
 
 
