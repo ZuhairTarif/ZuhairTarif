@@ -3,7 +3,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=100&color=50BA6B&center=true&vCenter=true&width=439&lines=A+Developer;Gamer;Engineer;A+Friend" alt="Typing SVG" /></a>
 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zuhairtarif&label=Profile%20views&color=0e75b6&style=flat" alt="zuhairtarif" /> </p>
-
+<img align="left" width="150" alt="ZuhairTarif" src="https://count.getloli.com/get/@:ZuhairTarif?theme=rule34">
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/D2H0hPltOdYAAAAC/golden-boy-fake-keyboard-programing-coding-paper-book.gif">
 <p align="left"> <a href="https://twitter.com/zuhairtarif" target="blank"><img src="https://img.shields.io/twitter/follow/zuhairtarif?logo=twitter&style=for-the-badge" alt="zuhairtarif" /></a> </p>
