@@ -50,7 +50,7 @@
 </details>
 
 
-<img src = "https://media.licdn.com/dms/image/D5616AQGdSWd9P3ToJQ/profile-displaybackgroundimage-shrink_350_1400/0/1666033812358?e=1684368000&v=beta&t=cxGWHr75D9QLNOEzKBJZLdbc7hTiB2G5XIatHGgs0D4">
+<img src = "https://media.licdn.com/dms/image/D5616AQGdSWd9P3ToJQ/profile-displaybackgroundimage-shrink_350_1400/0/1666033812358?e=1689811200&v=beta&t=0rbgPjXz4ZUNUojXiD_cIa4ITLlYKe6bDDA4kzxeHIQ">
 
 
 
