@@ -50,7 +50,7 @@
 </details>
 
 
-<img src = "zuhair.tech.png">
+<img src = "zuhair.tech.svg">
 
 
 
