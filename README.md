@@ -13,7 +13,7 @@
   <br>
 
 
-- 📝 I regularly write articles on [https://zuhairtarif.blogspot.com/](https://zuhairtarif.blogspot.com/)
+- 📝 I regularly write articles on [https://blog.zuhair.tech/](https://blog.zuhair.tech/)
 
 - 📫 How to reach me **tarif4667@gmail.com**
 
