@@ -13,11 +13,11 @@
   <br>
 
 
-- 📝 I regularly write articles on [https://blog.zuhair.tech/](https://blog.zuhair.tech/)
+- 📝 I regularly write articles on my [Blog](https://blog.zuhair.tech/)
 
-- 📫 How to reach me **tarif4667@gmail.com**
+- 📫 How to reach me **email@zuhair.tech**
 
-- 📄 Know about my experiences [https://zuhair.is-a.dev/](https://zuhair.is-a.dev/)
+- 📄 Know about my experiences on [Portfolio](https://zuhair.tech/)
 
 - ⚡ Fun fact **I think I am funny**
 - 🎮 **I play games sometimes**
