@@ -6,7 +6,7 @@
 <p align="left">  </p>
 <p align="left"> <a href="https://youtu.be/RvIx-SJvlNY" target="blank"> <img align="left" width="150" alt="ZuhairTarif" src="https://count.getloli.com/get/@:ZuhairTarif?theme=rule34">  </p>
   <div align="right">
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/D2H0hPltOdYAAAAC/golden-boy-fake-keyboard-programing-coding-paper-book.gif">
+<img align="right" alt="Coding" width="400" src="golden_boy.gif">
     </div >
 <div align="left">
   <br>
@@ -47,7 +47,7 @@
 </details>
 
 
-<img src = "zuhair.tech.svg">
+<img src = "zuhair.is-a.dev.png">
 
 
 <p><a href="https://www.buymeacoffee.com/zuhairtarif"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zuhairtarif" /></a></p><br><br>
