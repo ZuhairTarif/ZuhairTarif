@@ -12,7 +12,6 @@
   <br>
   <br>
 
-
 - 📝 Sometimes I write on my [Blog](https://blog.zuhair.tech/)
 
 - 📫 How to reach me **tarif4667@gmail.com**
@@ -30,7 +29,6 @@
 <a href="https://linkedin.com/in/zuhairtarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zuhairtarif" height="30" width="40" /></a>
 <a href="https://steamcommunity.com/id/zuhairtarif/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="zuhairtarif" height="30" width="40" /></a>
 
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -39,16 +37,11 @@
 <details>
 <summary><h2>GitHub Stats</h2></summary>
 
-
 <p align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ZuhairTarif&show_icons=true&theme=gotham" alt="ZuhairTarif" width="300" />
-  <img  src="https://github-readme-stats.vercel.app/api?username=ZuhairTarif&show_icons=true&theme=gotham" alt="ZuhairTarif" width="300" />
+  <img title="" alt="" src="https://github-readme-streak-stats.herokuapp.com?user=ZuhairTarif&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=0093FF&ring=0093FF&background=0D1117&currStreakLabel=0093FF&border=30363D"/>
  </p>
 </details>
 
-
 <img src = "img/zuhair.is-a.dev.png">
 
-
 <p><a href="https://www.buymeacoffee.com/zuhairtarif"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zuhairtarif" /></a></p><br><br>
-
