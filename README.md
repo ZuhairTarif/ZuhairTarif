@@ -40,9 +40,10 @@
       <td rowspan="2">
         <details>
           <summary><strong>GitHub-Stats</strong></summary>
+          <br>
           <p align="center">
             <img title="" alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=ZuhairTarif&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=0093FF&ring=0093FF&background=0D1117&currStreakLabel=0093FF&border=30363D" width="500"/>
-            <img alt="Robohash" src="https://robohash.org/zuhairtarif" height="250" width="250">
+            <!--<img alt="Robohash" src="https://robohash.org/zuhairtarif" height="250" width="250"> -->
           </p>
         </details>
       </td>
