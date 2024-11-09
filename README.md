@@ -12,7 +12,7 @@
   <br>
   <br>
 
-- 📝 Sometimes I write on my [Blog](https://blog.zuhair.tech/)
+- 📝 Sometimes I write on my [Blog](https://zuhairtarif.blogspot.com/)
 
 - 📫 How to reach me **tarif4667@gmail.com**
 
