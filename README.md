@@ -14,7 +14,7 @@
 
 - 📝 Sometimes I write on my <a href="https://zuhairtarif.blogspot.com/" target="_blank">Blog</a>
 
-- 📫 How to reach me <strong><a href="mailto:tarif4667@gmail.com" target="_blank">tarif4667@gmail.com</a></strong>
+- 📫 How to reach me <strong><a href="mailto:tarif4667@gmail.com" target="_blank">zuhairahmedtarif@gmail.com</a></strong>
 
 - 📄 Know about my experiences on <a href="https://zuhair.is-a.dev/" target="_blank">Portfolio</a>
 
