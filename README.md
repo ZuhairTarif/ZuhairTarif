@@ -92,4 +92,4 @@
 
 <img src = "img/zuhair.is-a.dev.png">
 
-<p><a href="https://www.buymeacoffee.com/zuhairtarif" target="_blank"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zuhairtarif" /></a></p><br><be>
+<!--<p><a href="https://www.buymeacoffee.com/zuhairtarif" target="_blank"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zuhairtarif" /></a></p><br><be>-->
